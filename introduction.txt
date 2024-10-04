@@ -3,3 +3,11 @@ Branch : Computer Science and Engineering
 Section : CSE-2
 Year : 2nd Year
 
+Hello everyone! I'm a passionate developer who loves building websites and web applications. I'm learning more about web technologies and improving my problem-solving skills through DSA (Data Structures and Algorithms).
+
+My skills include: Python, Django, Tkinter, C programming, HTML, and CSS.
+
+Thank you!
+
+
+
